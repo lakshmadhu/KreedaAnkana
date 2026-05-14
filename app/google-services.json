@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "255783720409",
+    "firebase_url": "https://kreedaankana-2b4fe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kreedaankana-2b4fe",
+    "storage_bucket": "kreedaankana-2b4fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255783720409:android:8e508a48a4b2eb21dd75c8",
+        "android_client_info": {
+          "package_name": "com.example.kreedaankana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBC9o1uk2srK340m_EBwn3WP_MS6Wkf_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
