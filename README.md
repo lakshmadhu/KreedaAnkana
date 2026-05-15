@@ -21,6 +21,8 @@ Tech Stack & Architecture
 •	Architecture: MVVM (Model-View-ViewModel)
 •	Navigation:Jetpack Navigation with Pager integration for swipe transitions.
 
+
+
 Folder Structure
 
 ```text
@@ -31,20 +33,16 @@ app/src/main/java/com/example/kreedaankana/
 ├── data/            # Room DB Entities and DAOs
 └── navigation/      # Navigation graphs and screen definitions
 
-
-
 Installation Steps
 •	Clone the repository: git clone https://github.com/lakshmadhu/KreedaAnkana.git
 •	Open Project: Launch Android Studio and select "Open" -> Navigate to the cloned folder.
 •	Sync Gradle: Allow Android Studio to download dependencies and sync the project.
 •	Firebase Setup: Ensure the google-services.json file is present in the app/ directory.
+
 Run Command
 •	Connect your Android device via USB or start a virtual emulator.
 •	Select the "app" configuration in the top toolbar.
 •	Press Shift + F10 or click the green "Run" button to install and launch the app on your device.
-Screenshots
-High-contrast sporty UI, grid-based calendars, and interactive lists.
-(Full demo screenshots and video demonstration available upon request during evaluation.)
 
 Future Improvements
 •	GPS Integration: Automatically find sports grounds nearest to the user's current location.
